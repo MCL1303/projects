@@ -49,13 +49,20 @@
 инструменты для визуализации данных, в том числе из *Haskell*.
 
 Возможности IHaskell сейчас:
-`[1] <https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html>`_,
-`[2] <http://indiana.edu/~ppaml/HakaruTutorial.html>`_,
-`[3] <http://nbviewer.jupyter.org/github/hansroland/FunctionalImages/blob/master/notebooks/FunctionalImages.ipynb>`_.
+
+- `неинтерактивные рисунки из геометрических фигур
+  <https://begriffs.com/posts/2016-01-20-ihaskell-notebook.html>`_,
+- `простые неинтерактивные графики
+  <http://indiana.edu/~ppaml/HakaruTutorial.html>`_,
+- `функциональная генерация неинтерактивных изображений
+  <http://nbviewer.jupyter.org/github/hansroland/FunctionalImages/blob/master/notebooks/FunctionalImages.ipynb>`_.
 
 Возможности IPython (к чему стремимся):
-`[1] <http://nbviewer.jupyter.org/gist/msund/7ac1203ded66fe8134cc>`_,
-`[2] <http://nbviewer.jupyter.org/github/empet/Math/blob/master/DomainColoring.ipynb>`_.
+
+- `интерактивные графики (plot.ly)
+  <http://nbviewer.jupyter.org/gist/msund/7ac1203ded66fe8134cc>`_,
+- `трёхмерные и сложные графики
+  <http://nbviewer.jupyter.org/github/empet/Math/blob/master/DomainColoring.ipynb>`_.
 
 2. Вычислительный кластер по модели MapReduce на базе технологии Cloud Haskell
 ``````````````````````````````````````````````````````````````````````````````
