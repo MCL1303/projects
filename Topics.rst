@@ -158,8 +158,8 @@ Python и JavaScipt не подходят вообще.*
 `[3] <http://lpcs.math.msu.su/~krupski/download/coq_pract.pdf>`_,
 `[4] <https://github.com/lspitzner/exference>`_
 
-8. Универсальный парсер S-выражений
-```````````````````````````````````
+8. Универсальный синтаксис
+``````````````````````````
 
 *Язык программирования: ∀. Рекомендую Haskell.*
 
